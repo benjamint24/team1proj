@@ -1,11 +1,11 @@
-#Python Numerical Literal Checker
+# Python Numerical Literal Checker
 CS 3110-01
 
-###Group Members
+### Group Members
 **Benjamin Tran**
-_Github:_
-_CPP Email:_
+_Github:_ 
+_CPP Email:_ 
 
 **Elijah Chan**
-_Github: doom-boy_
-_CPP Email: eechan@cpp.edu_
+_Github: doom-boy_ 
+_CPP Email: eechan@cpp.edu_ 
